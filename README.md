@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://github">github</a>
+<a href="https://github.com"><i class"fa fa-user></i></a>
 <!--
 **NetElites/NetElites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
