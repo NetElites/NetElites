@@ -9,29 +9,31 @@
 
 ### Hi there 👋
 
-The team NetElites Established in 2021.
+NetElites founded in 2021.
 
-This team works in opposing areas, including:
 
-- Morteza Shahriari(backend developer)
-- Anis Sheibak(backend developer)
-- Daniel Mointabr(front developer)
-- Iman Naghzali(front developer)
-- Erfan Mehmandoost(front developer)
-- Fatima Shahabi(wordpress developer)
+Members:
 
-Team activities NetElites:
+1. Morteza Shahriari(Back-End Developer)
+2. Anis Sheibak(Back-End Eeveloper)
+3. Daniyal Moeintabar(Front-End Developer
+4. Erfan Mehmandoust(Front-End Developer)
+5. Iman Naghzali(Front-End Developer)
+6. Fateme Shahabi(Wordpress Developer)
 
-- Backend Developer in asp.netcore,c#,php,laravel
-- Front Developer in html,css,js
+
+ NetElites's activities:
+
+- Backend Developer: Asp.Netcore, C#, PHP, Laravel
+- Front Developer: HTML, CSS, JS
 - Wordpress Developer
-- Seo
+- SEO
 
 
-<a href="https://github.com/ghost1372">
+<a href="https://github.com/NetElites">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NetElites&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
-<a href="https://github.com/ghost1372">
+<a href="https://github.com/NetElites">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetElites" />
 </a>
 
