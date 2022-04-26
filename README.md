@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<div style="width:100px;heihgt:100px;border:1px solid black;">
-  
-</div>
+<a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+</a>
 <!--
 **NetElites/NetElites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
