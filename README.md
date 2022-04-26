@@ -13,17 +13,18 @@ The team NetElites Established in 2021.
 
 This team works in opposing areas, including:
 
-- 
+- Morteza Shahriari(backend developer)
+- Anis Sheibak(backend developer)
+- Daniel Mointabr(front developer)
+- Iman Naghzali(front developer)
+- Fatima Shahabi(wordpress developer)
 
+Team activities NetElites:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Backend Developer in asp.netcore,c#,php,laravel
+- Front Developer in html,css,js
+- Wordpress Developer
+- Seo
 
 
 <a href="https://github.com/ghost1372">
