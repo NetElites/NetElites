@@ -17,7 +17,7 @@ This team works in opposing areas, including:
 - Anis Sheibak(backend developer)
 - Daniel Mointabr(front developer)
 - Iman Naghzali(front developer)
-- Erfan Mehmandoust(front developer)
+- Erfan Mehmandoost(front developer)
 - Fatima Shahabi(wordpress developer)
 
 Team activities NetElites:
