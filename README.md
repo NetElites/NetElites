@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-**NetElites/NetElites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The team NetElites Established in 2021.
 
-Here are some ideas to get you started:
+This team works in opposing areas, including:
+
+- 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,6 +23,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/ghost1372">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetElites" />
 </a>
+
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
 
 
 
